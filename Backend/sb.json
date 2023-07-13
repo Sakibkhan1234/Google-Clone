@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "Arslan",
+      "salary": "12333",
+      "company": "TCS",
+      "id": 3
+    },
+    {
+      "name": "Malik",
+      "salary": "233443",
+      "company": "TCS",
+      "id": 4
+    },
+    {
+      "name": "Maibub",
+      "salary": "233443",
+      "company": "TCS",
+      "id": 5
+    },
+    {
+      "name": "Sakib khan",
+      "salary": "3253425",
+      "company": "",
+      "id": 6
+    }
+  ]
+}
