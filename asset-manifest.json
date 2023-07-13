@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Google-Clone/static/css/main.40a5af10.css",
+    "main.js": "/Google-Clone/static/js/main.73378aef.js",
+    "static/media/sports-car 3.jpg": "/Google-Clone/static/media/sports-car 3.583e4d181f14e6eb3d61.jpg",
+    "index.html": "/Google-Clone/index.html",
+    "main.40a5af10.css.map": "/Google-Clone/static/css/main.40a5af10.css.map",
+    "main.73378aef.js.map": "/Google-Clone/static/js/main.73378aef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40a5af10.css",
+    "static/js/main.73378aef.js"
+  ]
+}
